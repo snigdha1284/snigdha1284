@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Snigdha</h1>
+<p align="center">💻 Frontend Learner | 🌱 Beginner in Open Source | 🚀 Currently learning DSA</p>
 
-<!--
-**snigdha1284/snigdha1284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me:
+- Building simple portfolio projects using **HTML & CSS**  
+- Learning **Data Structures & Algorithms** (DSA)
+- Ask me about **HTML**, **CSS**, and **GitHub basics**
+- Open to collaborating on beginner-friendly frontend projects
+  
+### 📌 My Projects:
+- 🎨 [HTML Portfolio](https://github.com/snigdha1284/html-portfolio)
+- 🖌️ [HTML + CSS Portfolio](https://github.com/snigdha1284/html-css-portfolio)
 
-Here are some ideas to get you started:
+### 📫 Connect with me:
+- 📧 Email: snigdha5002@gmail.com
+- 🌐 LinkedIn: www.linkedin.com/in/snigdha-datta-21a616355
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech I’m using
+**HTML · CSS · Git · GitHub**
+
+### 🏆 Currently Aiming for:
+- ✅ Contributing to beginner-friendly Open Source projects
+- 🎯 Getting selected for **GSSoC**, **SSoC**, or **Hacktoberfest**
+- 📈 Growing consistently by learning + building in public
