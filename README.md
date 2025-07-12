@@ -11,6 +11,10 @@
 - 🎨 [HTML Portfolio](https://github.com/snigdha1284/html-portfolio)
 - 🖌️ [HTML + CSS Portfolio](https://github.com/snigdha1284/html-css-portfolio)
 
+### 🎉 My First Open Source Step
+- ✅ [Added my name to Contributors list](https://github.com/snigdha1284/first-contributions/pull/1) — via [first-contributions](https://github.com/firstcontributions/first-contributions)  
+It’s a small step, but a meaningful start to my open source journey.
+
 ### 📫 Connect with me:
 - 📧 Email: snigdha5002@gmail.com
 - 🌐 LinkedIn: www.linkedin.com/in/snigdha-datta-21a616355
