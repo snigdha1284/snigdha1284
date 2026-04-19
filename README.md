@@ -30,13 +30,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,aws,mysql,git,github,vscode" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snigdha1284&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdha1284&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
