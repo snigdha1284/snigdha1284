@@ -1,19 +1,28 @@
-<h1 align="center">Hi 👋, I'm Snigdha</h1>
+<h1 align="center">Hi 👋, I'm Snigdha Datta</h1>
 <p align="center">
-💻 Full-Stack Developer | ☁️ Exploring Cloud & ML | 🚀 Building Scalable Applications
+💻 Full-Stack Developer | ☁️ AWS & ML Enthusiast | 🚀 Building Scalable Applications
+</p>
+
+<p align="center">
+<a href="https://github.com/snigdha1284">
+  <img src="https://komarev.com/ghpvc/?username=snigdha1284&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
+<a href="https://github.com/snigdha1284?tab=followers">
+  <img src="https://img.shields.io/github/followers/snigdha1284?label=Followers&style=social" />
+</a>
 </p>
 
 ---
 
-### 👩‍💻 About Me:
-- Pre-final year **Computer Science student at KIIT University**
-- Building **full-stack applications (MERN)** and working with **AWS & Machine Learning**
-- Interested in creating **scalable, efficient, and user-focused systems**
-- Currently strengthening **Data Structures & Algorithms**
+### 👩‍💻 About Me
+- 🎓 Pre-final year **CSE student at KIIT University**
+- 💻 Building **full-stack applications (MERN)**
+- ☁️ Exploring **AWS, Cloud Automation & Machine Learning**
+- 📈 Practicing **Data Structures & Algorithms**
 
 ---
 
-### 🚀 Projects:
+### 🚀 Projects
 - 🎯 **Event Management System (MERN)**  
   Role-based full-stack platform with authentication and real-time booking  
 
@@ -25,30 +34,24 @@
 
 ---
 
-### 🛠️ Tech Stack:
-**Languages:** C · C++ · Java · Python · JavaScript  
-**Frontend:** React.js · HTML · CSS  
-**Backend:** Node.js · Express.js  
-**Cloud & ML:** AWS S3 · Scikit-learn  
-**Tools:** Git · GitHub · VS Code · MySQL  
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,aws,mysql,git,github,vscode" />
+</p>
 
 ---
 
-### 📈 Currently Working On:
-- Improving **DSA for interviews**
-- Building **real-world full-stack projects**
-- Exploring **cloud + AI integrations**
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=snigdha1284&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdha1284&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-- 📧 Email: snigdha5002@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/snigdha-datta-21a616355  
-- 🌐 Portfolio: https://snigdha1284.github.io/Portfolio/
-
----
-
-### 🎯 Goals:
-- 🚀 Secure a **Software Development Internship**
-- 🌱 Contribute to impactful **real-world projects**
-- 📈 Continuously improve as a developer
+### 📫 Connect with me
+<p align="center">
+<a href="mailto:snigdha5002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/snigdha-datta-21a616355"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://snigdha1284.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
