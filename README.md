@@ -3,15 +3,6 @@
 💻 Full-Stack Developer | ☁️ AWS & ML Enthusiast | 🚀 Building Scalable Applications
 </p>
 
-<p align="center">
-<a href="https://github.com/snigdha1284">
-  <img src="https://komarev.com/ghpvc/?username=snigdha1284&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
-<a href="https://github.com/snigdha1284?tab=followers">
-  <img src="https://img.shields.io/github/followers/snigdha1284?label=Followers&style=social" />
-</a>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
